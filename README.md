@@ -4,6 +4,14 @@ Causal inference is an increasingly popular research direction, focused on disco
 
 ## Speakers
 
+<img src="images/EliasBareinboim.JPG" width="200" height="200" />
+Elias Bareinboim
+<img src="images/KunZhang.JPG" width="200" height="200" />
+Kun Zhang
+<img src="images/DavidSontag.jpg" width="200" height="200" />
+David Sontag
+
+
 ## Call for Posters
 
 ## Agenda
