@@ -8,6 +8,8 @@ Causal inference is an increasingly popular research direction, focused on disco
 
 ## Agenda
 
+## Organizers
+
 ## Contact information
 
 
