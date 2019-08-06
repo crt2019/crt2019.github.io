@@ -2,7 +2,7 @@
 title: 'Demo for jekyll-remote-theme with theme jekyll-uno'
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll - used via jekyll-remote-theme'
 url: ''
-baseurl: '/jekyll-uno-remote-theme-demo'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
@@ -46,4 +46,4 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
   
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor']
+exclude: ['README.md', 'Gemfile']
