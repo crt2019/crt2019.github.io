@@ -47,3 +47,5 @@ plugins:
   - jekyll-include-cache
   
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor']
+
+theme: jekyll-theme-cayman
