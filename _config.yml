@@ -23,7 +23,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: andrewbanchich/stellar-jekyll-theme
+remote_theme: melvinchng/event-jekyll-theme
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
